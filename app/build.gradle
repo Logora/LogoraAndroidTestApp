@@ -7,7 +7,7 @@ repositories {
         url = "https://maven.pkg.github.com/Logora/LogoraAndroidSDK"
         credentials {
             username = "hboisgibault"
-            password = "secret"
+            password = "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"
         }
     }
 }
@@ -44,7 +44,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
 
     implementation "androidx.fragment:fragment:1.3.3"
-    implementation 'com.logora:logora-sdk:0.1.4'
+    implementation 'com.logora:logora-sdk:0.1.6'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
