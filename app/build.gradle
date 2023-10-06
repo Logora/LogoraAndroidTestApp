@@ -39,8 +39,8 @@ android {
 }
 
 dependencies {
-    implementation 'com.logora:logora_sdk:0.2.5'
+    implementation 'com.logora:logora_sdk:0.3.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.8.20'
+    implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.8.22'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22'}
